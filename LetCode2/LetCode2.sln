@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "matrixToZero", "LetCode2\LetCode2.vcxproj", "{360C8DAC-A76F-4F83-A3EB-6F8EC23B9850}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "groupAnagrams", "groupAnagrams\groupAnagrams.vcxproj", "{8BECFA98-0BAD-4A2B-AFF4-B52694F1CB1C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "testEmptyStr", "testEmptyStr\testEmptyStr.vcxproj", "{347B9807-1EA9-4CD4-B2FB-D4C5BC589278}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "groupAnagrams2", "matrixToZero2\matrixToZero2.vcxproj", "{80BC290F-971F-4F25-B1F0-646627DC8C10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{360C8DAC-A76F-4F83-A3EB-6F8EC23B9850}.Debug|Win32.ActiveCfg = Debug|Win32
+		{360C8DAC-A76F-4F83-A3EB-6F8EC23B9850}.Debug|Win32.Build.0 = Debug|Win32
+		{360C8DAC-A76F-4F83-A3EB-6F8EC23B9850}.Release|Win32.ActiveCfg = Release|Win32
+		{360C8DAC-A76F-4F83-A3EB-6F8EC23B9850}.Release|Win32.Build.0 = Release|Win32
+		{8BECFA98-0BAD-4A2B-AFF4-B52694F1CB1C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8BECFA98-0BAD-4A2B-AFF4-B52694F1CB1C}.Debug|Win32.Build.0 = Debug|Win32
+		{8BECFA98-0BAD-4A2B-AFF4-B52694F1CB1C}.Release|Win32.ActiveCfg = Release|Win32
+		{8BECFA98-0BAD-4A2B-AFF4-B52694F1CB1C}.Release|Win32.Build.0 = Release|Win32
+		{347B9807-1EA9-4CD4-B2FB-D4C5BC589278}.Debug|Win32.ActiveCfg = Debug|Win32
+		{347B9807-1EA9-4CD4-B2FB-D4C5BC589278}.Debug|Win32.Build.0 = Debug|Win32
+		{347B9807-1EA9-4CD4-B2FB-D4C5BC589278}.Release|Win32.ActiveCfg = Release|Win32
+		{347B9807-1EA9-4CD4-B2FB-D4C5BC589278}.Release|Win32.Build.0 = Release|Win32
+		{80BC290F-971F-4F25-B1F0-646627DC8C10}.Debug|Win32.ActiveCfg = Debug|Win32
+		{80BC290F-971F-4F25-B1F0-646627DC8C10}.Debug|Win32.Build.0 = Debug|Win32
+		{80BC290F-971F-4F25-B1F0-646627DC8C10}.Release|Win32.ActiveCfg = Release|Win32
+		{80BC290F-971F-4F25-B1F0-646627DC8C10}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
