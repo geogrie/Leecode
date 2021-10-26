@@ -1,0 +1,9 @@
+git add -a
+git commit -m
+git revert HEAD
+
+你通常用git diff来找你当前工作目录和上次提交与本地索引间的差异。
+$ git diff
+
+git log --pretty=oneline
+git reset --hard a6ace91
